@@ -15,4 +15,3 @@ A modern, fully responsive product landing page built using HTML5 and CSS3. This
 ```text
 ├── index.html   # Core structure and layout
 └── styles.css   # Custom styling, Flexbox layout, and media queries
-# Flexfit-landing-page
